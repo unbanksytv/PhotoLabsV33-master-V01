@@ -28,13 +28,13 @@ const CollectionCard: FC<CollectionCardProps> = ({
           <div className="ml-2 text-xs text-white">
             <span className="font-normal">by</span>
             {` `}
-            <span className="font-medium">Jane Cooper</span>
+            <span className="font-medium">GVO33.eth</span>
           </div>
           <VerifyIcon iconClass="w-4 h-4" />
         </div>
         {/* TITLE */}
         <h2 className="font-semibold text-3xl mt-1.5 text-white">
-          Awesome collection
+          Curated collection
         </h2>
         {/* LISTS */}
         <div className="grid grid-cols-3 gap-4 mt-5">
