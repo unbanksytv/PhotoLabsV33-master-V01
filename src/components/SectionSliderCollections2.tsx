@@ -73,7 +73,7 @@ const SectionSliderCollections2: FC<SectionSliderCollections2Props> = ({
         isCenter
         desc=""
       >
-        Top List Collections.
+        Curated Collections by Florence
       </Heading>
       <Nav
         className="p-1 bg-white dark:bg-neutral-800 rounded-full shadow-lg"

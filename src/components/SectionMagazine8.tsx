@@ -12,10 +12,10 @@ const SectionMagazine8: FC<SectionMagazine8Props> = ({ className = "" }) => {
   return (
     <div className={`nc-SectionMagazine8 relative ${className}`}>
       <Heading
-        desc={"Click on music icon and enjoy NTF music or audio "}
+        desc={"Click on music icon and live the music life "}
         className="mb-14 text-neutral-900 dark:text-neutral-50"
       >
-        Listen NFTs audio live
+        Music Is Life tbh. Live It.
       </Heading>
       <div className={`grid grid-cols-1 sm:grid-cols-6 gap-6 2xl:gap-8`}>
         <CardNFTMusic
